@@ -1,6 +1,6 @@
 # kr_project2_explanation_by_forgetting
 
-This is a very repository for a very simple code-base for the course Knowledge Representation 2020 of the Master AI.
+This is a repository for a very simple code-base for the course Knowledge Representation 2020 of the Master AI.
  
 This repository provides a number of (partial) stand-alone versions of established programs (LETHE or the OWL-API) 
 with the sole goal of allowing you to programme and evaluate a forgetting-based explanation tool for Project 2 of the course. 
